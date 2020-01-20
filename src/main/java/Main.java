@@ -10,5 +10,6 @@ public class Main {
         System.out.println("James");
         System.out.println("My name is Duncan.");
         System.out.println("Tabby");
+        System.out.println("JR is Me");
     }
 }
