@@ -6,8 +6,9 @@ public class Main {
         System.out.println("This is Andrew");
         System.out.println("It is me: Jason");
         System.out.println("Nathan Here :)");
-        System.out.println("test");
         System.out.println("James");
         System.out.println("My name is Duncan.");
+        System.out.println("test");
+	System.out.println("This is a test of branching");
     }
 }
