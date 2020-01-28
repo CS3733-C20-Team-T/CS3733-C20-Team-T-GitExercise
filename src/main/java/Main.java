@@ -8,8 +8,6 @@ public class Main {
         System.out.println("Nathan Here :)");
         System.out.println("James");
         System.out.println("My name is Duncan.");
-        System.out.println("test");
-	System.out.println("This is a test of branching");
         System.out.println("Tabby");
         System.out.println("JR is Me");
         System.out.println("Max is here! We are all here!")
